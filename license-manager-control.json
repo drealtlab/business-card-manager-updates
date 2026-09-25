@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "app": "license-manager",
-  "enabled": true,
+  "enabled": false,
   "minimumVersion": "0.3.8",
   "forceUpdate": false,
-  "message": "",
+  "message": "ㅠㅠ",
   "issuedAt": "2026-09-25T02:56:00Z",
   "expiresAt": null
 }
