@@ -1,11 +1,14 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "app": "business-card-manager",
+  "policyVersion": 1790344702342,
   "mode": "normal",
-  "enabled": true,
-  "minimumVersion": "1.1.87",
+  "minimumVersion": "1.1.89",
   "forceUpdate": false,
   "message": "",
+  "issuedAt": "2026-09-25T13:58:22.341Z",
   "effectiveAt": null,
-  "expiresAt": null
+  "expiresAt": "2026-10-25T13:58:22.269Z",
+  "keyId": "drealt-control-2026-09-01",
+  "signature": "MEYCIQC/fTansZjxGPRgHfGSoAzG0FGbv9I7PkmypmjivELoDwIhAMtJzklNSsB/osO2a4iSfTn2wH0M2UsSkh4xHm9zRE82"
 }
