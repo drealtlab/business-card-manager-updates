@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "app": "business-card-manager",
-  "mode": "maintenance",
-  "enabled": false,
+  "mode": "normal",
+  "enabled": true,
   "minimumVersion": "1.1.87",
   "forceUpdate": false,
-  "message": "자동 해제 테스트입니다.",
+  "message": "",
   "effectiveAt": null,
-  "expiresAt": "2026-09-25T06:40:00Z"
+  "expiresAt": null
 }
