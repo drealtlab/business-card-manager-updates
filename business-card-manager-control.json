@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "app": "business-card-manager",
+  "mode": "normal",
+  "enabled": true,
+  "minimumVersion": "1.1.87",
+  "forceUpdate": false,
+  "message": "",
+  "effectiveAt": null,
+  "expiresAt": null
+}
