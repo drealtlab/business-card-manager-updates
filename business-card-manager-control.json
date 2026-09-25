@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "app": "business-card-manager",
-  "mode": "maintenance",
-  "enabled": false,
+  "mode": "normal",
+  "enabled": true,
   "minimumVersion": "1.1.87",
   "forceUpdate": false,
-  "message": "긴급 점검 테스트로 스마트 명함 관리자의 사용을 일시 중단합니다.",
+  "message": "",
   "effectiveAt": null,
-  "expiresAt": "2026-09-25T08:00:00Z"
+  "expiresAt": null
 }
